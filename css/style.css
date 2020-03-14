@@ -1,0 +1,60 @@
+/* CSS HEADER */
+header {
+	border-bottom: 0.5px solid #e7e7e7;
+
+}
+
+.panel {
+  margin-bottom: 20px;
+  background-color: #fff;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
+          box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
+}
+.panel-body {
+  padding: 15px;
+}
+.panel-heading {
+  padding: 10px 15px;
+  border-bottom: 1px solid transparent;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+}
+.panel-heading > .dropdown .dropdown-toggle {
+  color: inherit;
+}
+
+.logo img  {
+	width: 200px;
+	margin-top: -10px;
+
+}
+.navbar-default {
+
+}
+
+.lazacar{
+	font-family: Lato;
+
+}
+
+.navbar .nav > li > a:focus,
+.navbar .nav > li > a:hover {
+	background-color: #fff;
+	border-top:2px solid cyan;
+  	color: #000;
+
+}
+.dropdown li{
+	font-family: ;
+
+}
+.navbar-brand {
+	background-color: cyan ;
+	border-top: 1px solid #fff ;
+
+}
+.navbar-header {
+
+}
